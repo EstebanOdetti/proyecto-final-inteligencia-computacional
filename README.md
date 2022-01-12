@@ -21,7 +21,7 @@ Las enfermedades cardiovasculares son la primera causa de muerte a nivel global 
 ## Dataset 
 El dataset está conformado por un conjunto de datos reales reunidos por la Cleveland Clinic Foundation. Puede acceder al mismo aqui: 
 [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci) o [UCI Machine learning repository](https://archive-beta.ics.uci.edu/ml/datasets/heart+disease)
-![image](https://archive-beta.ics.uci.edu/assets/header/navbar.png)
+
 
 ## Clasificadores utilizados
 - Random forest
