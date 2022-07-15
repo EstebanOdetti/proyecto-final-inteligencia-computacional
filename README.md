@@ -3,6 +3,7 @@
 ![Generic badge](https://img.shields.io/badge/made%20with-Python-blue.svg) 
 
 Este es el proyecto final que realize junto con otros colaboradores para la materia Inteligencia Computacional. Consta de entrenar distintos clasificadores para detectar posibles enfermedades cardiacas. En el informe se encuentran todos los detalles del proytecto. 
+Extracurricularmente realizamos una interfaz grafica que utiliza el RFC para predecir nuevas ocurrencias.
 
 ## Podes descargar el programa desde [onedrive](https://1drv.ms/u/s!Ak1hSkZeE5KjhMIxkJuEYNYDA90Pzg?e=VMF2Ha)
 
